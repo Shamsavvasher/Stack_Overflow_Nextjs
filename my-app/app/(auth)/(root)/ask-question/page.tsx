@@ -1,7 +1,10 @@
 import React from 'react'
 
-const Askquestion
- = () => {
+const page = () => {
+  const isUserLoggedIn = false;
+  if (!isUserLoggedIn) {
+    return <div>Please sign in to ask a question.</div>
+  }
   return (
     <div>
       Askquestion
@@ -9,5 +12,5 @@ const Askquestion
   )
 }
 
-export default Askquestion
+export default page
 
