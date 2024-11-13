@@ -1,7 +1,13 @@
 import {ClerkProvider,} from '@clerk/nextjs'
 import './globals.css'
 import React from 'react'
-export const metadata={title:'Next Js 13 with clerk'}
+import { Inter, Space_Grotesk } from 'next/font/google';
+import type {Metadata} from 'next'
+
+export const metadata: Metadata = {
+  title: 'DevFlow',
+  description: 'A community-driven platform for asking and answring programming question.',
+}  
 export default function RootLayout({
   children,
 }: {
