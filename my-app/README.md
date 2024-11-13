@@ -350,10 +350,6 @@ You can also deploy this Next.js app with [Netlify](https://www.netlify.com/).
 
 Check out [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-## 🔧 Contributing
-
-[![contributors](https://contrib.rocks/image?repo=ladunjexa/nextjs14-devoverflow)](https://github.com/ladunjexa/nextjs14-devoverflow/graphs/contributors)
-
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 To fix a bug or enhance an existing module, follow these steps:
@@ -394,10 +390,10 @@ JSMastery. (2023). [Ultimate Next.js 14 Course | Become a top 1% Next.js 14 deve
 
 ## 📞 Contact Us
 
-![LinkedIn](https://www.linkedin.com/in/sham-savvasher-4a86b92a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![LinkedIn]()](https://www.linkedin.com/in/sham-savvasher-4a86b92a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 <!-- [![Twitter](https://img.shields.io/twitter/follow/ladunjexa.svg?style=social)](https://twitter.com/intent/follow?screen_name=ladunjexa) -->
 
 ## 📋 License
 
-<!-- **DevOverflow** is open source software [licensed as MIT](https://opensource.org/license/mit/) and is free to use — See [LICENSE](https://github.com/ladunjexa/nextjs14-devoverflow/blob/main/LICENSE) for more details. -->
+<!--  -->
