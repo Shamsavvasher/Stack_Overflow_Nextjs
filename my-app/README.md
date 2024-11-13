@@ -2,26 +2,11 @@
 
 <!-- GitHub badges -->
 
-[![Latest release](https://img.shields.io/github/v/release/ladunjexa/nextjs14-devoverflow?label=Latest%20release&style=social)](https://github.com/ladunjexa/nextjs14-devoverflow/releases/tag/v0.1.0)
-[![Stars](https://img.shields.io/github/stars/ladunjexa/nextjs14-devoverflow?style=social)](https://github.com/ladunjexa/nextjs14-devoverflow/stargazers)
-[![Fork](https://img.shields.io/github/forks/ladunjexa/nextjs14-devoverflow?style=social)](https://github.com/ladunjexa/nextjs14-devoverflow/forks)
-[![GitHub commits](https://img.shields.io/github/commit-activity/t/ladunjexa/nextjs14-devoverflow?style=social&logo=github)](https://github.com/ladunjexa/nextjs14-devoverflow/commits)
-[![Pull requests](https://img.shields.io/github/issues-pr/ladunjexa/nextjs14-devoverflow?style=social&logo=github)](https://github.com/ladunjexa/nextjs14-devoverflow/pulls)
-
 ![demo](https://i.ibb.co/x7FChRP/Thumbnail.jpg)
-
-[![ladunjexa](https://custom-icon-badges.demolab.com/badge/made%20by%20-ladunjexa-556bf2?logo=github&logoColor=white&labelColor=101827)](https://github.com/luadnjexa)
-[![License](https://img.shields.io/github/license/ladunjexa/nextjs14-devoverflow?color=dddddd&labelColor=000000)](https://github.com/ladunjexa/nextjs14-devoverflow/blob/main/LICENSE)
-[![Top Language](https://img.shields.io/github/languages/top/ladunjexa/nextjs14-devoverflow?logo=github&logoColor=%23007ACC&label=TypeScript)](https://www.typescriptlang.org/)
-[![Contributors](https://img.shields.io/github/contributors/ladunjexa/nextjs14-devoverflow?style=flat&color=orange&label=Contributors)](https://github.com/ladunjexa/nextjs14-devoverflow/graphs/contributors)
-![Release](https://img.shields.io/github/release/ladunjexa/nextjs14-devoverflow.svg)
-![PRs](https://img.shields.io/badge/PRs-welcome-ff69b4.svg?style=shields)
-![deployment](https://img.shields.io/github/deployments/ladunjexa/nextjs14-devoverflow/Production?logo=vercel&label=Website)
-[![Known Vulnerabilities](https://snyk.io/test/github/ladunjexa/nextjs14-devoverflow/badge.svg)](https://snyk.io/test/github/ladunjexa/nextjs14-devoverflow)
 
 ## 🌐 Live Demo
 
-Explore the live demonstration of the project: [nextjs14-devoverflow](https://nextjs14-devoverflow.vercel.app/)
+<!-- Explore the live demonstration of the project: [nextjs14-devoverflow](https://nextjs14-devoverflow.vercel.app/) -->
 
 ## 📝 Description
 
@@ -198,7 +183,8 @@ nextjs14-devoverflow/
 
 <details><summary>Table of Contents</summary>
 
-- [Live Demo](#-live-demo)
+<!-- - [Live Demo](#-live-demo) -->
+
 - [Description](#-description)
 - [Technologies Used](#-technologies-used)
 - [Get Started](#-get-started)
@@ -408,13 +394,10 @@ JSMastery. (2023). [Ultimate Next.js 14 Course | Become a top 1% Next.js 14 deve
 
 ## 📞 Contact Us
 
-[![Telegram](https://img.shields.io/badge/Telegram-@ladunjexa-2CA5E0?style=social&logo=telegram&logoColor=000000)](https://t.me/ladunjexa)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ladunjexa-blue?style=flat&logo=linkedin&logoColor=b0c0c0&labelColor=363D44)](https://www.linkedin.com/in/lironabutbul)
-[![Instagram](https://img.shields.io/badge/Instagram-ladunjexa-grey?style=flat&logo=instagram&logoColor=b0c0c0&labelColor=8134af)](https://www.instagram.com/ladunjexa)
-[![Discord](https://img.shields.io/badge/Discord-ladunjexa-7289da?style=flat&logo=discord&logoColor=b0c0c0&labelColor=2c2f33)](https://discord.com/users/827996364331810816)
+![LinkedIn](https://www.linkedin.com/in/sham-savvasher-4a86b92a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 <!-- [![Twitter](https://img.shields.io/twitter/follow/ladunjexa.svg?style=social)](https://twitter.com/intent/follow?screen_name=ladunjexa) -->
 
 ## 📋 License
 
-**DevOverflow** is open source software [licensed as MIT](https://opensource.org/license/mit/) and is free to use — See [LICENSE](https://github.com/ladunjexa/nextjs14-devoverflow/blob/main/LICENSE) for more details.
+<!-- **DevOverflow** is open source software [licensed as MIT](https://opensource.org/license/mit/) and is free to use — See [LICENSE](https://github.com/ladunjexa/nextjs14-devoverflow/blob/main/LICENSE) for more details. -->
