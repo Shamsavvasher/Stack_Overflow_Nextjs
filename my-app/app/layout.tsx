@@ -3,6 +3,7 @@ import './globals.css'
 import React from 'react'
 import { Inter, Space_Grotesk } from 'next/font/google';
 import type {Metadata} from 'next'
+import { ThemeProvider } from '@/context/ThemeProvider';
 
 const inter = Inter(
   {
@@ -30,7 +31,10 @@ export default function RootLayout({
   children: React.ReactNode
 }) {
   return (
-    <ClerkProvider
+   
+      <html lang="en">
+      <body className={`${inter.variable}${spaceGrotesk}`}>
+      <ClerkProvider
       appearance={{
         elements: {
           formButtonPrimary: 
@@ -41,10 +45,11 @@ export default function RootLayout({
           
       }
     }}>
-      <html lang="en">
-        <body className={`${inter.variable}${spaceGrotesk}`}>
-          {children}</body>
-      </html>
+          <ThemeProvider>
+          {children}
+          </ThemeProvider>
     </ClerkProvider>
+        </body>
+      </html>
   )
 }
