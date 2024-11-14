@@ -2,7 +2,7 @@ import React from 'react'
 import { ClerkProvider } from '@clerk/nextjs'
 const Layout = ({children}:{children:React.ReactNode}) => {
   return (
-      <main className='flex min-h-screen w-full items-center justify-center'>
+      <main className=''>
           
           {children}
    </main>
