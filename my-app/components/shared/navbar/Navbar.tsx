@@ -1,7 +1,8 @@
 import React from 'react'
 import Link from 'next/link'
 import Image from 'next/image'
-import { SignedIn } from '@clerk/nextjs'
+import { SignedIn,UserButton } from '@clerk/nextjs'
+import Theme from './Theme'
 
 const Navbar = () => {
   return (
@@ -10,11 +11,18 @@ const Navbar = () => {
               <Image src="/assets/images/site-logo.svg" alt="Logo" width={23} height={23} />
               <p className='h2-bold font-spaceGrotesk text-dark-100 dark:text-light-900 max-sm:hidden'>Dev <span className='text-primary-500'>Overflow</span></p>
           </Link>
-          Global search
-          <div className='flex-between gap-5'>
-              Theme
+          {/* Global search */}
+      <div className='flex-between gap-5'>
+            <Theme/>
               <SignedIn>
-                  
+          <UserButton afterSignOutUrl="/" appearance={{
+            elements: {
+                    avatarBox:'h-10 w-10'
+            },
+            variables: {
+              colorPrimary:'#FF7000',
+            }
+                }} /> 
               </SignedIn>
           </div>
     </nav>
